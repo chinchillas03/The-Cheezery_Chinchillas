@@ -23,6 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/name"
+        android:layout_margin="@dimen/input_margin"
         android:textSize="24sp"
         android:inputType="text"
         android:layout_marginTop="@dimen/input_margin"

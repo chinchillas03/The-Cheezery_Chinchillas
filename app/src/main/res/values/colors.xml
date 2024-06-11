@@ -9,4 +9,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="accent_pink">#fe2bd0</color>
+    <color name="color_name_product">#B60089</color>
+    <color name="color_desc_product">#262525</color>
+    <color name="color_price_product">#9E2E81</color>
 </resources>
